@@ -1,0 +1,20 @@
+{
+    "name":"neomongo",
+    "description": "my mongo config helper",
+    "version": "0.0.1",
+    "author": {
+        "name": "neolx423",
+        "email": "30781387@qq.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NeoLX/neoOnJs.git"
+    },
+    "dependencies": {
+        "mongodb":""
+    },
+    "devDependencies": {
+        "mongodb":""
+    },
+    "_id":"neomongo@0.0.1"
+}
