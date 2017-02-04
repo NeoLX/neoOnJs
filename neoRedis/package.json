@@ -1,7 +1,7 @@
 {
     "name":"neoredis",
     "description": "my redis config helper",
-    "version": "0.0.2",
+    "version": "0.0.6",
     "author": {
         "name": "neolx423",
         "email": "30781387@qq.com"

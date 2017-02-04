@@ -8,7 +8,7 @@ var exp = {};
 exp.getClient = function(config){
     var conf;
 
-    if(!config){
+    if(config){
         conf = config;
     }else{
         conf = defConfig;
